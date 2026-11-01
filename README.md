@@ -4,7 +4,7 @@ Um buquê de **13 lírios em 3D** que brotam de um morrinho de grama, desabrocha
  
 Um arquivo só, sem instalar nada. É só abrir no navegador.
  
-> 🔗 **Demo ao vivo:** `https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`
+> 🔗 **Demo ao vivo:** `https://g0rda0.github.io/Buque-de-Lirios-em-ASCII/`
  
 ---
  
