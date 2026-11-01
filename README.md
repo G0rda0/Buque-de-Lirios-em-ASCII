@@ -1,4 +1,4 @@
-# 💐 Buquê de Lírios em ASCII
+# 💐 Buquê de Lírios em ASCII e HTML
  
 Um buquê de **13 lírios em 3D** que brotam de um morrinho de grama, desabrocham um a um e balançam com a brisa, tudo desenhado com **letras e símbolos** sobre um céu estrelado.
  
